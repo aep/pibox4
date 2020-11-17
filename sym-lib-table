@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pibox-rescue)(type Legacy)(uri ${KIPRJMOD}/pibox-rescue.lib)(options "")(descr ""))
+)
